@@ -3,7 +3,7 @@ title: 6324
 SEOTitle: 6324 | 抽象TV
 header-img: img/post-bg-desk.jpg
 email: i@6324.tv
-description: "Every failure is leading towards success."
+description: "抽象未亡！强势回归！"
 keyword: "6324, 6324.tv, 抽象, 抽象tv, 抽象工作室, 嗨粉, 陆叁贰肆, 李老八, 红老嗨, 电竞李伯清, 咸鱼李干, 李干, 李赣, 斗鱼6324"
 url: "http://6324.tv"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/6324tv/6324tv.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "6324upup"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # 传送门
-传送门: [
+DouYu TV: [
     {
         title: "6324",
         href: "https://www.douyu.com/6324"
