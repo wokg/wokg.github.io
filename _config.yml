@@ -97,7 +97,7 @@ service-worker: true
 
 
 # 传送门
-DouYu TV: [
+friends: [
     {
         title: "6324",
         href: "https://www.douyu.com/6324"
