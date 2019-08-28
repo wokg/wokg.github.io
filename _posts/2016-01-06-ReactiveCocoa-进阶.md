@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     
 title:      ReactiveCocoa 进阶
 subtitle:   函数式编程框架 ReactiveCocoa 进阶
 date:       2017-01-06
