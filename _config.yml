@@ -1,17 +1,17 @@
 # Site settings
-title: 6324
-SEOTitle: 6324 | 抽象TV
+title: X Blog
+SEOTitle: Blog | WO.KG
 header-img: img/post-bg-desk.jpg
-email: i@6324.tv
-description: "抽象未亡！强势回归！"
-keyword: "6324, 6324.tv, 抽象, 抽象tv, 抽象工作室, 嗨粉, 陆叁贰肆, 李老八, 红老嗨, 电竞李伯清, 咸鱼李干, 李干, 李赣, 斗鱼6324"
-url: "http://6324.tv"          # your host, for absolute URL
+email: blog@wo.kg
+description: "我的个人博客小站。"
+keyword: "X Blog, Blog, wo.kg, wokg, 博客"
+url: "https://blog.wo.kg"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/6324tv/6324tv.github.io" # you code repository
+github_repo: "https://github.com/wokg/wokg.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "李老八"
+sidebar-about-description: "X"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: lilaoba
+# disqus_username: 
 
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
   clientID:                             #生成的clientID
   clientSecret:     #生成的clientSecret
-  repo: 6324tv.github.io    #仓库名称
-  owner: 6324tv    #github用户名
-  admin: 6324tv
+  repo:     #仓库名称
+  owner:     #github用户名
+  admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id:
 
 # Google Analytics
 ga_track_id: ''            # Format: UA-xxxxxx-xx
-ga_domain: 6324.tv               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain:                # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,7 @@ service-worker: true
 # 传送门
 friends: [
     {
-        title: "李老八",
-        href: "https://www.douyu.com/4430775"
-    },{
-        title: "冯雪娟",
-        href: "https://www.douyu.com/3022003"
-    },{
-        title: "卷毛",
-        href: "https://www.douyu.com/5379"
-    },{
-        title: "劳改",
-        href: "https://www.douyu.com/2561707"
+        title: "wo.kg",
+        href: "https://wo.kg"
     }
 ]
