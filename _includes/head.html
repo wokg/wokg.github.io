@@ -7,7 +7,7 @@
     <meta name="keywords"  content="{{ site.keyword }}">
     <meta name="theme-color" content="{{ site.chrome-tab-theme-color }}">
     
-    <title><img class="avatar" style="border-radius: 50%;width: 120px;height: 120px;" src="https://xvlog.me/images/avatar.png?v=1572931998064" alt=""></title>
+    <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
     
     <!-- Web App Manifest -->
     <link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json">
@@ -15,7 +15,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
 
-    <!-- Safari Webpage Icon    by-BY -->
+    <!-- Safari Webpage Icon -->
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/img/apple-touch-icon.png">
     
     <!-- Canonical URL -->
